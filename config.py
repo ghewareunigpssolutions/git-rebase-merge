@@ -1,4 +1,4 @@
 # config.py
 settings = {
-    "feature": "none"
+    "feature": "C"
 }
